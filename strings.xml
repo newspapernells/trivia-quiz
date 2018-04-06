@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Trivia Quiz</string>
+    <string name="title_text">Trivia Quiz</string>
+    <string name="title_subtext">Test your video game knowledge</string>
+    <string name="dreamcast_description">Semitransparent background image of dreamcast console</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_next">Next</string>
+    <string name="button_reset">Start</string>
+    <string name="start_over">Start over</string>
+    <string name="current_score_text">Current score: %1$d</string>
+    <string name="final_score_text">Final score: %1$d</string>
+    <string name="correct">Correct.</string>
+    <string name="incorrect">Incorrect.</string>
+    <string name="empty">Take a guess!</string>
+    <string name="good">Well done! You\'re a trivia whiz.</string>
+    <string name="average">Your knowledge of video games is average.</string>
+    <string name="poor">Poorly done. Play more video games.</string>
+
+    <string name="question_1_question_text">Question 1:\nIn the game \'Metal Gear Solid\', who is the twin brother of Solid Snake?</string>
+    <string name="question_1_answer_a_text">Gray Fox</string>
+    <string name="question_1_answer_b_text">Liquid Snake</string>
+    <string name="question_1_answer_c_text">Big Boss</string>
+    <string name="question_1_answer_d_text">Schneider</string>
+
+    <string name="question_2_question_text">Question 2:\nIn the game \'Mortal Kombat\', what phrase is heard when Scorpion uses his spear?</string>
+    <string name="question_2_answer_a_text">\'This is where you fall down\'</string>
+    <string name="question_2_answer_b_text">\'Fatality\'</string>
+    <string name="question_2_answer_c_text">\'Flawless victory\'</string>
+    <string name="question_2_answer_d_text">\'Get over here\'</string>
+
+    <string name="question_3_question_text">Question 3:\nWhat is the name of the gang member that \'Grand Theft Auto: San Andreas\' revolves around?</string>
+    <string name="question_3_answer_a_text">Nico Bellic</string>
+    <string name="question_3_answer_b_text">Trevor Phillips</string>
+    <string name="question_3_answer_c_text">Claude</string>
+    <string name="question_3_answer_d_text">Carl Johnson</string>
+
+    <string name="question_4_question_text">Question 4:\nHow many rows of aliens are there at the start of a \'Space Invaders\' game?</string>
+    <string name="question_4_answer_a_text">Four</string>
+    <string name="question_4_answer_b_text">Two</string>
+    <string name="question_4_answer_c_text">Five</string>
+    <string name="question_4_answer_d_text">Eight</string>
+
+    <string name="question_5_question_text">Question 5:\nIn the game \'Doom\', what planet is the space marine posted to after assaulting his commanding officer?</string>
+    <string name="question_5_answer_a_text">Mars</string>
+    <string name="question_5_answer_b_text">Saturn</string>
+    <string name="question_5_answer_c_text">Mercury</string>
+    <string name="question_5_answer_d_text">Pluto</string>
+
+    <string name="question_6_question_text">Question 6:\nThe Covenant are a fictional alien military alliance in which game series?</string>
+    <string name="question_6_answer_a_text">Mass Effect</string>
+    <string name="question_6_answer_b_text">Halo</string>
+    <string name="question_6_answer_c_text">Starcraft</string>
+    <string name="question_6_answer_d_text">Metal Gear</string>
+
+    <string name="question_7_question_text">Question 7:\nIn what year was the Sega Genesis released in North America?</string>
+    <string name="question_7_answer_a_text">1991</string>
+    <string name="question_7_answer_b_text">1999</string>
+    <string name="question_7_answer_c_text">1989</string>
+    <string name="question_7_answer_d_text">1978</string>
+
+    <string name="question_8_question_text">Question 8:\nWhich classic beat-em-up game featured brothers Billy Lee and Jimmy (nicknamed Spike and Hammer)?</string>
+    <string name="question_8_answer_a_text">Double Dragon</string>
+    <string name="question_8_answer_b_text">Snow Brothers</string>
+    <string name="question_8_answer_c_text">Ninja Gaiden</string>
+    <string name="question_8_answer_d_text">Smash Brothers</string>
+
+    <string name="question_9_question_text">Question 9:\nWhich James Bond movie was made into a game for Nintento 64 and later for the Wii console?</string>
+    <string name="question_9_answer_a_text">Moonraker</string>
+    <string name="question_9_answer_b_text">Goldfinger</string>
+    <string name="question_9_answer_c_text">Thunderball</string>
+    <string name="question_9_answer_d_text">Goldeneye</string>
+
+    <string name="question_10_question_text">Question 10:\nSlade, Reese, Jericho and Roland Kane are all characters in which game?</string>
+    <string name="question_10_answer_a_text">Primal Carnage</string>
+    <string name="question_10_answer_b_text">Dark Sector</string>
+    <string name="question_10_answer_c_text">Turok</string>
+    <string name="question_10_answer_d_text">The Saboteur</string>
+</resources>
